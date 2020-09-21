@@ -1,0 +1,8 @@
+1. Appbar updates with number of posts
+    Note: appbar does not automatically refresh when a new post is loaded. You must leave the home screen or perform a hot reload then go back to see the updated number
+
+2. Unit tests pass
+
+3. Analytics have been implemented
+
+Have a nice day!
